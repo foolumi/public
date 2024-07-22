@@ -1,0 +1,7 @@
+name: luminous-technetium-binturong
+runtime: go
+description: A minimal Auth0 Go Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/foolumi/templates/auth0-go

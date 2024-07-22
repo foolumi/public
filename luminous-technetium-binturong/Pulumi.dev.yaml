@@ -1,0 +1,2 @@
+config:
+  pulumi:template: https://github.com/foolumi/templates/auth0-go
