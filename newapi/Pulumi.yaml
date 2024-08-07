@@ -1,0 +1,7 @@
+name: newapi
+runtime: go
+description: A minimal AWS Go Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/foolumi/templates/aws-go
